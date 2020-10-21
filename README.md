@@ -1,2 +1,2 @@
 # Recipe-Scaler
-This is a program that I made along side my learning in class. 
+I created this program during my Comp Sci 121 class to learn more about how dictionaries functions and the different types of things you can do with dictionaries in python. It takes a user inputed list of three varibles being the quantity of the ingredient that's needed, the unit of measurement for the ingredient and then finally the ingrediant itself. For the ingredients name the user is required to keep the name as one word by using either -/_ to be able to create the illusion of a space/
